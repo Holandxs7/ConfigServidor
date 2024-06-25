@@ -21,6 +21,7 @@ actions:
           - "&7para todo o servidor."
       action: "playsound: BLOCK_NOTE_BLOCK_PLING;10;2"
   error:
+    1:
       action: "playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1"
   claim:
     2:
@@ -32,6 +33,7 @@ actions:
           - "&7para todo o servidor."
       action: "playsound: BLOCK_NOTE_BLOCK_PLING;10;2"
   error:
+    2:
       action: "playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1"
   claim:
     3:
@@ -43,6 +45,7 @@ actions:
           - "&7para todo o servidor."
     action: "playsound: BLOCK_NOTE_BLOCK_PLING;10;2"
   error:
+    3:
     action: "playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1"
 requirements:
   one_time_requirements: false
